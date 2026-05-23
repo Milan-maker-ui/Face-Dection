@@ -46,6 +46,4 @@ Press `q` to quit webcam.
 
 ---
 
-# Author
 
-Milan Arote
