@@ -16,25 +16,6 @@ A real-time Face Detection System built with Python and OpenCV. The application 
 - OpenCV
 - NumPy
 
-
-🚀 Installation
-
-1. Clone the repository
-
-git clone https://github.com/Milan-maker-ui/Face-Dection.git
-
-2. Navigate to the project directory
-
-cd Face-Dection
-
-3. Install the required packages
-
-pip install -r requirements.txt
-
-4. Run the application
-
-python face_detection.py
-
 📷 How It Works
 
 1. Opens the webcam.
